@@ -1,0 +1,7 @@
+port: 80
+tasks:
+  channel_size: 10000
+  workers_count: 100
+http_client:
+  channel_size: 10000
+  workers_count: 100
